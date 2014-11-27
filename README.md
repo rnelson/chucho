@@ -6,4 +6,4 @@ $ /usr/bin/chucho
 Illegal instruction: 4
 ```
 
-[Chucho](http://twitter.com/9130khz) doesn't work very well.
+[Chucho](http://twitter.com/9130kHz) doesn't work very well.
