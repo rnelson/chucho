@@ -3,3 +3,6 @@ all:
 
 clean:
 	rm chucho
+
+install: all
+	cp chucho /usr/bin
