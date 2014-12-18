@@ -2,4 +2,4 @@ language: c
 compiler:
     - clang
     - gcc
-script: make clean all
+script: make all
